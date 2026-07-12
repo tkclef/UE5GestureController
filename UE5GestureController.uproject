@@ -35,6 +35,10 @@
 			"Name": "SKGShooterFramework",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4986d4f5b73148deb154e1cd31dd9623"
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
